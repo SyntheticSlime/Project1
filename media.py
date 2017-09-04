@@ -10,7 +10,7 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-    #This function opens a web browsing tab to a specified url. The intent is
-    #to play a trailer related to the movie.
+    # This function opens a web browsing tab to a specified url. The intent is
+    # to play a trailer related to the movie.
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)

@@ -8,9 +8,11 @@ Entertainment Center is a project for the udacity full stack web developer nanod
 Simply clone the GitHub repository.
 
 To do this, go into Git Bash and enter
+
 `git clone https://github.com/SyntheticSlime/Project1`
 
 If for some reason you have an old version of Entertainment Center simply use a pull instead
+
 `git pull https://github.com/SyntheticSlime/Project1`
 
 ## Usage

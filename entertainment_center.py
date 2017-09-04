@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-#Create all of the Movie objects and put them in a list.
+# Create all of the Movie objects and put them in a list.
 dotd     = media.Movie("Dawn of the Dead",
                        "Survivors of a zombie apocalypse take refuge in a mall",
                        "https://upload.wikimedia.org/wikipedia/en/1/16/Dawn_of_the_Dead_2004_movie.jpg", # NOQA
@@ -38,5 +38,5 @@ prestige = media.Movie("The Prestige",
 
 movies = [dotd, gotg, speed, prestige, kickass, rpa]
 
-#use the movies list to produce and open a webpage.
+# Use the movies list to produce and open a webpage.
 fresh_tomatoes.open_movies_page(movies)

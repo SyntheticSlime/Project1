@@ -16,7 +16,7 @@ If for some reason you have an old version of Entertainment Center simply use a 
 ## Usage
 
 In Command Prompt enter
-`cd <folder path>`
-`entertainment_center.py`
+
+`cd <folder path> entertainment_center.py`
 
 Entertainment Center should open a browser page. Several movie posters will show up with the movie title beneath each poster. Click on or near a poster to see the movie trailer.
